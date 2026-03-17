@@ -1,6 +1,8 @@
+## 📚 Book Vibe
 
+A dynamic and engaging book discovery web application built with **React.js,** powered by **custom JSON data** to explore, browse, and manage your favorite books seamlessly.
 
-
+## 🎯 Live Demo: 
 
 ## 🧩 Tech Stack
 
