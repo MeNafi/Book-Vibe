@@ -69,6 +69,7 @@ const Navbar = () => {
         </ul>
       </div>
 
+
       {/* Right side: Action Buttons with specific hex colors */}
       <div className="navbar-end gap-3">
         {/* Green Sign In Button */}
