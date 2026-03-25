@@ -31,6 +31,7 @@ const BookDetails = () => {
     addToStoredDB(id);
   };
 
+  
   return (
     <div className="w-2/3 mx-auto">
       <img src={image} alt="" />
