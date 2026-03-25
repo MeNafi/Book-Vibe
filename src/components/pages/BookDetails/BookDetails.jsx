@@ -23,10 +23,10 @@ const BookDetails = () => {
 
     // Sweet Alert 2 part
     MySwal.fire({
-  title: "Mark Done",
-  icon: "success",
-  draggable: true
-});
+      title: "Mark Done",
+      icon: "success",
+      draggable: true,
+    });
     //add to store DB part
     addToStoredDB(id);
   };
