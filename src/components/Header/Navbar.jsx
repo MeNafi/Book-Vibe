@@ -2,9 +2,11 @@ import React from "react";
 import { Link, NavLink } from "react-router-dom"; // Using NavLink for active link styling
 
 const Navbar = () => {
+
   // Navigation links defined as a constant to reuse in mobile and desktop menus
   const links = (
     <>
+    <Link to='/readList'><li className="m-2">ReadList</li></Link>
       <li>
         <NavLink 
           to="/" 
